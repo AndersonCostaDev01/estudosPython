@@ -20,4 +20,4 @@
 
 ***[Estudos git](https://github.com/AndersonCostaDev01/estudosPython/tree/main/git)*** --> estudos sobre git para versionamento de codigo
 
-***[]()***
+***[Estudos UV](https://github.com/AndersonCostaDev01/estudosPython/tree/main/UV)*** --> Estudos sobre o gerenciador de pacotes Python UV 
